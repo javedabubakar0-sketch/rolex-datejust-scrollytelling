@@ -1,0 +1,30 @@
+{
+  "name": "rolex-datejust-scrollytelling",
+  "version": "1.0.0",
+  "description": "Rolex Oyster Perpetual Datejust Scrollytelling Experience with Canvas 2D frame scrubbing, Atelier configurator, and Web Audio API synthesis.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javedabubakar0-sketch/rolex-datejust-scrollytelling.git"
+  },
+  "keywords": [
+    "rolex",
+    "scrollytelling",
+    "luxury",
+    "canvas",
+    "animation",
+    "web-audio-api",
+    "interactive-web",
+    "github-pages"
+  ],
+  "author": "javedabubakar0-sketch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javedabubakar0-sketch/rolex-datejust-scrollytelling/issues"
+  },
+  "homepage": "https://javedabubakar0-sketch.github.io/rolex-datejust-scrollytelling/"
+}
